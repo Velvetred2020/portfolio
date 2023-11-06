@@ -86,6 +86,15 @@ body {
   transition: all .6s; /*specifica che la transizione con i link a cui ci manda l'elemento sia graduale di 0.5 secondi*/
 }
 
+
+.project1-title-container a,
+.project2-title-container a,
+.project3-title-container a {
+  text-decoration: none;
+  font-weight: bold;
+  color: rgb(234, 239, 247);
+}
+
 /* MAIN */
 
 #home {
